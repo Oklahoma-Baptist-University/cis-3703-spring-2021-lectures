@@ -1,0 +1,3 @@
+Last1, First1	127	228
+Last2, First2	100	400
+Last3, First3	18	41.5
