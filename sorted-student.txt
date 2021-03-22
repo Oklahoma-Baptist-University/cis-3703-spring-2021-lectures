@@ -1,0 +1,20 @@
+
+Student name: Fred
+Grade Points: 30.0
+Hours: 18.0
+GPA: 1.67
+
+Student name: Earl
+Grade Points: 30.0
+Hours: 12.0
+GPA: 2.50
+
+Student name: Jeff
+Grade Points: 40.0
+Hours: 15.0
+GPA: 2.67
+
+Student name: Joe
+Grade Points: 30.0
+Hours: 10.0
+GPA: 3.00
